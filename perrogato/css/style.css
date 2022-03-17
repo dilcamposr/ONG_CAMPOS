@@ -1,0 +1,27 @@
+.titulo{
+    text-align: center;
+    font-size: 40px;
+}
+.parrafo{
+    text-align: justify;
+    font-size: 25px;
+}
+img{
+    width: 50%;
+    height: 50%;
+}
+.padding{
+    padding: 35px;
+    text-align: justify;
+    font-size: 25px;
+}
+td{
+    text-align:left;
+}
+.detalle{
+    text-align: left;
+    font-size: 15px;
+}
+.inicio{
+    text-align: right;
+}
